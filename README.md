@@ -40,3 +40,5 @@ To get a copy of the project up and running on your local machine, follow these 
 To use the project, follow these steps:
 
 1. Open your web browser and go to `http://127.0.0.1:8000/`.
+
+GITHUB LINK : https://github.com/camilamdalcol/Final-Project
